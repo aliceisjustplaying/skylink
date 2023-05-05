@@ -29,8 +29,8 @@ runtime.onMessage.addListener((message) => {
 // Map to store tabs with DIDs
 const tabsWithDID = new Map()
 
-// URL of the Bluesky Web Applications
-const bskyAppUrl = "https://staging.bsky.app"
+// URL of the Bluesky Web Application
+const bskyAppUrl = "https://www.bsky.app"
 
 // Function to set the extension icon
 function setIcon(tabId, iconName) {

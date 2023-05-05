@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- Use www.bsky.app instead of staging.bsky.app for bluesky web app domain
+
 ## [1.2.0] - 2023-05-03
 
 ### Added
